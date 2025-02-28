@@ -1,7 +1,8 @@
 # fast_reinforcement_learning_implementation_RL_project
 
 This is an implementation of the algorithms presented in the paper "Fast reinforcement learning with generalized
-policy updates" by Andre Barreto, Shaobo Houa, Diana Borsaa, David Silvera, and Doina Precup.
+policy updates" by Andre Barreto, Shaobo Houa, Diana Borsaa, David Silvera, and Doina Precup:
+https://www.pnas.org/doi/abs/10.1073/pnas.1907370117
 
 This implementation is based on the implementation made by Marcus Chiam, where you can find his GitHub repository here:
 https://github.com/chiamp/fast-reinforcement-learning?tab=readme-ov-file#traditional-reinforcement-learning-framework
